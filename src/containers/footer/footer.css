@@ -1,0 +1,80 @@
+.gpt3__footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #031B34;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.gpt3__footer-container {
+    text-align: center;
+
+}
+
+.gpt3__footer-container h1 {
+    width: 821px;
+    height: 150px;
+    font-size: 62px;
+    line-height: 75px;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    margin-top: 2rem;
+
+}
+
+.gpt3__footer-container button {
+    width: 218px;
+    height: 65px;
+    margin: 2rem 0;
+    background: #031B34;
+    color: #fff;
+    font-size: 18px;
+    line-height: 21px;
+    border: 1px solid rgba(255,255,255, 1);
+}
+
+.gpt3__footer p {
+    color: #fff;
+    align-items: center;
+    margin: 2rem 0 1.5rem;
+}
+
+.gpt3__footer-menu-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    height: 100%;
+    color: #fff;
+}
+
+.gpt3__footer-menu-container-links h3{
+    margin-bottom: 1.5rem;
+}
+
+.gpt3__footer-menu-container-contact {
+   
+}
+
+.gpt3__footer-menu-container-contact h3{
+    margin-bottom: 1.5rem;
+}
+
+.gpt3__footer-menu-container-company{
+    
+}
+
+.gpt3__footer-menu-container-company h3 {
+   margin-bottom: 1.5rem;
+}
+
+.gpt3__footer-menu-container-company p{
+   
+}
